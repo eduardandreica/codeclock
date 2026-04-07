@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "eduard@fedora",
+                "Name": "Eduard"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Eine Uhr im Code-Design",
+        "Icon": "preferences-desktop-clock",
+        "Id": "com.eduard.codeclock",
+        "Name": "Code Clock",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

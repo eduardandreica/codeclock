@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="language" type="String">
+      <default>javascript</default>
+    </entry>
+    <entry name="colorDecl" type="String">
+      <default>#936cb2</default>
+    </entry>
+    <entry name="colorVar" type="String">
+      <default>#b894e5</default>
+    </entry>
+    <entry name="colorPunc" type="String">
+      <default>#6bb0d3</default>
+    </entry>
+    <entry name="colorBrack" type="String">
+      <default>#4e75ca</default>
+    </entry>
+    <entry name="colorProp" type="String">
+      <default>#51bbbe</default>
+    </entry>
+    <entry name="colorNum" type="String">
+      <default>#f88449</default>
+    </entry>
+    <entry name="colorStr" type="String">
+      <default>#6fb665</default>
+    </entry>
+  </group>
+</kcfg>
