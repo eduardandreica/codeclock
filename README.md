@@ -4,6 +4,8 @@ Code Clock is a distinctive KDE Plasma 6 widget that displays the current date a
 
 Perfect for developers who want their desktop to match their favorite IDE!
 
+![Code Clock Preview](assets/preview.png)
+
 ## Features
 
 * **Multiple Programming Languages**: Choose to display the time in Python, JavaScript/TypeScript, C++, or C#.
