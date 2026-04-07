@@ -8,7 +8,7 @@
         ],
         "Category": "Date and Time",
         "Description": "Eine Uhr im Code-Design",
-        "Icon": "preferences-desktop-clock",
+        "Icon": "clock",
         "Id": "com.eduard.codeclock",
         "Name": "Code Clock",
         "Version": "1.0"
