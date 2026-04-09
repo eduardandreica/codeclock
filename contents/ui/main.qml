@@ -145,27 +145,27 @@ PlasmoidItem {
 
             Rectangle {
                 width: 140; height: 140; radius: 70
-                color: "transparent"; border.color: "#b4c1d4"; border.width: 3
+                color: "transparent"; border.color: Plasmoid.configuration.colorClockBorder; border.width: 3
 
                 Rectangle {
                     id: hourHand
-                    width: 5.6; height: 42; color: "#b4c1d4"
+                    width: 5.6; height: 42; color: Plasmoid.configuration.colorClockHour
                     x: 70 - (width / 2); y: 70 - height
                     transformOrigin: Item.Bottom
                 }
                 Rectangle {
                     id: minuteHand
-                    width: 4.2; height: 56; color: "#b4c1d4"
+                    width: 4.2; height: 56; color: Plasmoid.configuration.colorClockMinute
                     x: 70 - (width / 2); y: 70 - height
                     transformOrigin: Item.Bottom
                 }
                 Rectangle {
                     id: secondHand
-                    width: 2.8; height: 63; color: "#ce9178"
+                    width: 2.8; height: 63; color: Plasmoid.configuration.colorClockSecond
                     x: 70 - (width / 2); y: 70 - height
                     transformOrigin: Item.Bottom
                 }
-                Rectangle { width: 10; height: 10; radius: 5; color: "#b4c1d4"; x: 65; y: 65 }
+                Rectangle { width: 10; height: 10; radius: 5; color: Plasmoid.configuration.colorClockBorder; x: 65; y: 65 }
             }
         }
     }

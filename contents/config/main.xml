@@ -8,26 +8,38 @@
     <entry name="language" type="String">
       <default>javascript</default>
     </entry>
-    <entry name="colorDecl" type="String">
+    <entry name="colorDecl" type="Color">
       <default>#936cb2</default>
     </entry>
-    <entry name="colorVar" type="String">
+    <entry name="colorVar" type="Color">
       <default>#b894e5</default>
     </entry>
-    <entry name="colorPunc" type="String">
+    <entry name="colorPunc" type="Color">
       <default>#6bb0d3</default>
     </entry>
-    <entry name="colorBrack" type="String">
+    <entry name="colorBrack" type="Color">
       <default>#4e75ca</default>
     </entry>
-    <entry name="colorProp" type="String">
+    <entry name="colorProp" type="Color">
       <default>#51bbbe</default>
     </entry>
-    <entry name="colorNum" type="String">
+    <entry name="colorNum" type="Color">
       <default>#f88449</default>
     </entry>
-    <entry name="colorStr" type="String">
+    <entry name="colorStr" type="Color">
       <default>#6fb665</default>
+    </entry>
+    <entry name="colorClockBorder" type="Color">
+      <default>#b4c1d4</default>
+    </entry>
+    <entry name="colorClockHour" type="Color">
+      <default>#b4c1d4</default>
+    </entry>
+    <entry name="colorClockMinute" type="Color">
+      <default>#b4c1d4</default>
+    </entry>
+    <entry name="colorClockSecond" type="Color">
+      <default>#ce9178</default>
     </entry>
   </group>
 </kcfg>
